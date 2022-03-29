@@ -15,6 +15,7 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <a href="https://github.com/BYUCS260/museum-pixilcode">Github Repository</a>
   </div>
 </div>
 </template>
